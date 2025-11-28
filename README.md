@@ -13,3 +13,4 @@ Each lab includes steps taken, payloads, and lessons learned.
 - [Lab: Unprotected admin functionality with unpredictable URL](https://github.com/MageBreak/portswigger-labs/blob/main/unpredictable-URL.md)
 - [Lab: User role can be modified in user profile](https://github.com/MageBreak/portswigger-labs/blob/main/json-exploit.md)
 - [Lab: User ID controlled by request parameter, with unpredictable user IDs](https://github.com/MageBreak/portswigger-labs/blob/main/unpredictable%20user%20IDs.md)
+- [Lab: Unprotected admin functionality](https://github.com/MageBreak/portswigger-labs/blob/main/Unprotected%20admin%20functionality.md)
