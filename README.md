@@ -18,3 +18,4 @@ Each lab includes steps taken, payloads, and lessons learned.
 - [Lab: Method-based access control can be circumvented](https://github.com/MageBreak/portswigger-labs/blob/main/MBAC-circumvent.md)
 - [Lab: User ID controlled by request parameter with data leakage in redirect](https://github.com/MageBreak/portswigger-labs/blob/main/data-leakage-id.md)
 - [Lab: User ID controlled by request parameter with password disclosure](https://github.com/MageBreak/portswigger-labs/blob/main/cleartext.md)
+- [Lab: Insecure direct object references](https://github.com/MageBreak/portswigger-labs/blob/main/password-idor.md)
