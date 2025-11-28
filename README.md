@@ -15,3 +15,4 @@ Each lab includes steps taken, payloads, and lessons learned.
 - [Lab: User ID controlled by request parameter, with unpredictable user IDs](https://github.com/MageBreak/portswigger-labs/blob/main/unpredictable%20user%20IDs.md)
 - [Lab: Unprotected admin functionality](https://github.com/MageBreak/portswigger-labs/blob/main/Unprotected%20admin%20functionality.md)
 - [Lab: User role controlled by request parameter](https://github.com/MageBreak/portswigger-labs/blob/main/User%20role%20controlled%20by%20request%20parameter.md)
+- [Lab: Method-based access control can be circumvented](https://github.com/MageBreak/portswigger-labs/blob/main/MBAC-circumvent.md)
