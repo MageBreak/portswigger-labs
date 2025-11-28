@@ -20,3 +20,4 @@ Each lab includes steps taken, payloads, and lessons learned.
 - [Lab: User ID controlled by request parameter with password disclosure](https://github.com/MageBreak/portswigger-labs/blob/main/cleartext.md)
 - [Lab: Insecure direct object references](https://github.com/MageBreak/portswigger-labs/blob/main/password-idor.md)
 - [Lab: URL-based access control can be circumvented](https://github.com/MageBreak/portswigger-labs/blob/main/access-bypass.md)
+- [Lab: Multi-step process with no access control on one step](https://github.com/MageBreak/portswigger-labs/blob/main/Multi-step.md)
