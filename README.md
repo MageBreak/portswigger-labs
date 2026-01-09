@@ -38,7 +38,7 @@ This repository documents my journey through the PortSwigger Web Security Academ
 - [Querying the database type and version on Oracle](oracle-version-find.md)
 
 ---
-## OS command injection (14 Labs)
+## OS command injection
 - [OS command injection, simple case](OS-simple.md)
 - [Blind OS command injection with time delays](OS-timedelay.md)
 - [Blind OS command injection with output redirection](OS-outputredirect.md)
