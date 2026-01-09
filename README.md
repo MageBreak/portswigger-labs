@@ -8,15 +8,12 @@ This repository documents my journey through the PortSwigger Web Security Academ
 ---
 
 ##  Access Control 
-*Focus: IDOR, Privilege Escalation, and Broken Access Control logic.*
 
-### **Practitioner (Intermediate)**
+
 - [Method-based access control can be circumvented](MBAC-circumvent.md) 
 - [URL-based access control can be circumvented](access-bypass.md)
 - [Multi-step process with no access control on one step](Multi-step.md)
 - [Referer-based access control](Referer-based%20access%20control.md)
-
-### **Apprentice (Basics)**
 - [Unprotected admin functionality](Unprotected%20admin%20functionality.md)
 - [Unprotected admin functionality with unpredictable URL](unpredictable-URL.md)
 - [User role controlled by request parameter](User%20role%20controlled%20by%20request%20parameter.md)
@@ -30,7 +27,7 @@ This repository documents my journey through the PortSwigger Web Security Academ
 ---
 
 ##  SQL Injection
-*Focus: Data Exfiltration, Union Attacks, and Database Enumeration.*
+
 
 - [Retrieving hidden data](retrieving-hidden-data.md)
 - [Determining the number of columns with UNION](union-number-of-columns.md)
