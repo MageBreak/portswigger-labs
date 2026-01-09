@@ -8,7 +8,7 @@ This repository documents my journey through the PortSwigger Web Security Academ
 
 ---
 
-## 🔓 Access Control (14 Labs)
+##  Access Control 
 *Focus: IDOR, Privilege Escalation, and Broken Access Control logic.*
 
 ### **Practitioner (Intermediate)**
@@ -30,7 +30,7 @@ This repository documents my journey through the PortSwigger Web Security Academ
 
 ---
 
-## 💉 SQL Injection (4 Labs)
+##  SQL Injection
 *Focus: Data Exfiltration, Union Attacks, and Database Enumeration.*
 
 - [Retrieving hidden data](retrieving-hidden-data.md)
@@ -39,8 +39,13 @@ This repository documents my journey through the PortSwigger Web Security Academ
 - [Querying the database type and version on Oracle](oracle-version-find.md)
 
 ---
+## OS command injection (14 Labs)
+- [OS command injection, simple case]()
+- [Blind OS command injection with time delays]()
+- [Blind OS command injection with output redirection]()
+- [Blind OS command injection with out-of-band interaction]()
 
-## 🚧 Coming Soon / In Progress
+## Coming Soon / In Progress
 - **OS Command Injection**
 - **Authentication Vulnerabilities**
 - **Server-Side Request Forgery (SSRF)**
