@@ -2,7 +2,6 @@
 
 **Author:** MageBreak  
 **Focus:** Web Application Security & Offensive Operations  
-**Total Labs Solved:** 18
 
 This repository documents my journey through the PortSwigger Web Security Academy. Each write-up includes the methodology, payloads used, and key takeaways for future engagements.
 
@@ -43,7 +42,7 @@ This repository documents my journey through the PortSwigger Web Security Academ
 - [OS command injection, simple case](OS-simple.md)
 - [Blind OS command injection with time delays](OS-timedelay.md)
 - [Blind OS command injection with output redirection](OS-outputredirect.md)
-- [Blind OS command injection with out-of-band interaction]()
+- [Blind OS command injection with out-of-band interaction](OS-outofband.md)
 
 ## Coming Soon / In Progress
 - **OS Command Injection**
