@@ -40,7 +40,7 @@ This repository documents my journey through the PortSwigger Web Security Academ
 
 ---
 ## OS command injection (14 Labs)
-- [OS command injection, simple case]()
+- [OS command injection, simple case](OS-simple.md)
 - [Blind OS command injection with time delays]()
 - [Blind OS command injection with output redirection]()
 - [Blind OS command injection with out-of-band interaction]()
